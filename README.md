@@ -7,6 +7,7 @@ Neste guia, você encontrará informações detalhadas sobre como configurar o h
 ### Esquema de ligação dos Pinos 
 <img src="img.jpg" style="width:100%;">
 
+### Código 
 ```cpp
 #include <SPI.h>
 #include <MFRC522.h>
