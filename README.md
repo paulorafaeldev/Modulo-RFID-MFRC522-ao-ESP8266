@@ -5,7 +5,7 @@ Este repositório contém um guia passo a passo sobre como conectar e utilizar o
 Neste guia, você encontrará informações detalhadas sobre como configurar o hardware, conectar os pinos do módulo RFID MFRC522 ao ESP8266 e programar o microcontrolador para interagir com o módulo RFID. Também incluímos exemplos de código para ajudá-lo a começar com seus próprios projetos.
 
 ### Esquema de ligação dos Pinos 
-<img src="img.jpg" style="width:400px;">
+<img src="img.jpg" style="width:100%;">
 
 ```cpp
 #include <SPI.h>
